@@ -61,6 +61,6 @@ To stop this happening and force the direction set the ```fixed-position``` opti
 
 http://intellipharm.github.io/angular-tooltips/
 
-## Requrements
+## Requirements
 
 **None!!**
